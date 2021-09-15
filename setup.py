@@ -5,11 +5,11 @@ with open("README.md", "r") as f:
 
 setup(
     name="firstpackie",
-    version="0.0.2",
+    version="1.0.0",
     description="Say hello!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/taslim-a-hussain/helloworld",
+    url="https://github.com/taslim-a-hussain/firstpackie",
     author="Taslim A Hussain",
     author_email="taslim@outlook.co.nz",
     py_modules=["firstpackie"],
