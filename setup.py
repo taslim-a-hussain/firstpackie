@@ -4,15 +4,15 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="helloworld",
-    version="0.0.1",
+    name="firstpackie",
+    version="0.0.2",
     description="Say hello!",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/taslim-a-hussain/helloworld",
     author="Taslim A Hussain",
     author_email="taslim@outlook.co.nz",
-    py_modules=["helloworld"],
+    py_modules=["firstpackie"],
     package_dir={"": "src"},
     classifiers=[
         "Programming Language :: Python :: 3",
